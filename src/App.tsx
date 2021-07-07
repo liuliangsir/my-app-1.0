@@ -1,5 +1,9 @@
 import React from 'react';
 
+import test from './test'
+
+console.log(test)
+
 function App() {
   return (
     <div className='App'>
